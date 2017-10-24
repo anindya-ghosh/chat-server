@@ -1,0 +1,22 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "a simple chatting app using node js nad angular js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serv.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anindya-ghosh/chat-server.git"
+  },
+  "author": "Anindya Ghosh and Biplab Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anindya-ghosh/chat-server/issues"
+  },
+  "homepage": "https://github.com/anindya-ghosh/chat-server#readme"
+}
